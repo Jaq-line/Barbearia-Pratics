@@ -1,0 +1,67 @@
+	body { 
+
+		
+
+		 }
+
+		 #img {
+
+		 	width: 50%;
+    height: 400px;
+
+    text-align: center;
+
+    margin-right: center;
+display: block;
+ margin: 0px auto;
+
+		 }
+
+	.principal {
+
+		 	background: #CCCCCC;
+		 	text-align: center;
+		 }
+
+h1 {
+
+	text-align:center
+}
+
+
+	 	p {
+
+	 		text-align: center;
+	 	}
+
+
+strong {
+	color: #844350;
+}
+
+		ul {
+
+			display:  inline-block;
+			vertical-align: top;:
+			width:  20%;
+			margin-right: 15%;
+		}
+
+.imagembene {
+
+		 	width: 50%;
+		 	 
+		 }
+
+		 .itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
